@@ -7,6 +7,7 @@ class name
         System.out.println (" Enter the name :");
         String name = sc.next();
          System.out.println (" the name :" + name);
+         sc.close();
 
     }
 }
